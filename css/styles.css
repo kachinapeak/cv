@@ -1,0 +1,28 @@
+body {
+  margin-top: 0px;
+  background-color: #e3fdfd;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+.container {
+  color: cornsilk;
+  position: fixed;
+  background-color: rgb(143, 202, 202);
+  margin-top: 0px;
+  width: 890px;
+  height: 50px;
+}
+
+.title-header {
+  text-align: center;
+  font-size: 25px;
+  padding: 10px 10px;
+  text-shadow: 2px 2px 1px rgb(0, 0, 0);
+}
